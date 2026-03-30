@@ -1,0 +1,101 @@
+/* ---- Homepage ---- */
+.headshot {
+  float: left;
+  width: 250px;
+  border-radius: 8px;
+  margin: 0 2em 1em 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.home-bio {
+  font-size: 1.05em;
+  line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+  .headshot {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5em;
+    width: 200px;
+  }
+}
+
+/* ---- Research page ---- */
+.content h2 {
+  margin-top: 2.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #333;
+}
+
+.content h3 {
+  margin-top: 1.8em;
+  color: #333;
+}
+
+.content small {
+  color: #666;
+}
+
+.content hr {
+  margin: 2.5em 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+/* ---- Collapsible sections (blog) ---- */
+details {
+  margin: 1.2em 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  background: #fafafa;
+  overflow: hidden;
+}
+
+details summary {
+  padding: 0.8em 1.2em;
+  cursor: pointer;
+  background: #f5f5f5;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 1.15em;
+  transition: background 0.2s;
+}
+
+details summary:hover {
+  background: #eee;
+}
+
+details[open] summary {
+  background: #e8e8e8;
+  border-bottom: 1px solid #ddd;
+}
+
+details > *:not(summary) {
+  padding: 0 1.2em;
+}
+
+details ul {
+  padding-left: 1.5em;
+}
+
+details li {
+  margin-bottom: 0.6em;
+  line-height: 1.6;
+}
+
+/* ---- Figures ---- */
+figure {
+  margin: 2em 0;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* ---- Blog list ---- */
+.post-content li {
+  line-height: 1.6;
+}
