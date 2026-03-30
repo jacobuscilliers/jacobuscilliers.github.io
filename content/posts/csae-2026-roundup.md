@@ -16,8 +16,8 @@ This year's CSAE conference brought together 199 papers spanning agriculture, he
 ## Trends
 
 
-### African representation
-
+<details>
+<summary><strong>African representation</strong></summary>
 
 What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. This is an undercount: it misses Africans in the diaspora and those living in Africa but employed by a global institution. Roughly a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US.
 
