@@ -150,6 +150,22 @@ details > *:not(summary) {
     color: var(--primary-hover);
 }
 
+/* --- Footnotes: smaller, less prominent --- */
+.footnotes {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: #666;
+    border-top: 1px solid #e5e7eb;
+    margin-top: 2rem;
+    padding-top: 1rem;
+}
+.footnotes ol {
+    padding-left: 1.5rem;
+}
+.footnotes p {
+    margin: 0.3rem 0;
+}
+
 /* --- Table of contents styling --- */
 .toc {
     border-left: 3px solid var(--primary-light);
