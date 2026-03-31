@@ -19,13 +19,13 @@ This year's CSAE conference brought together ~200 papers spanning agriculture, h
 <details>
 <summary><strong>African representation</strong></summary>
 
-What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. This is an undercount: it misses Africans in the diaspora and those living in Africa but employed by a global institution. Roughly a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US.
+What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. This is an undercount: it misses Africans in the diaspora and those living in Africa but employed by a global institution. Roughly a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US. So, more progress is required...
 
 
 {{< figure src="/images/csae2026/treemap_speaker_countries.png" alt="Treemap: Speaker country of residence" >}}
 
 
-There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 15 of them. South Africa leads — and a positive trend this year was the number of Black and female South African speakers. Still, east Africa and South Africa dominate the map.
+There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 15 of them. South Africa leads, with 10 speakers — and notably, this cohort looked very different from a decade ago: predominantly Black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
 
 
 {{< figure src="/images/csae2026/heatmap_africa_comparison.png" alt="Comparison: Countries studied vs speaker residence" >}}
