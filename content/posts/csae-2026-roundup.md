@@ -25,7 +25,7 @@ What I love about CSAE is the African representation. I don't know another econo
 {{< figure src="/images/csae2026/treemap_speaker_countries.png" alt="Treemap: Speaker country of residence" >}}
 
 
-There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 15 of them. South Africa leads, with 10 speakers — and notably, this cohort looked very different from a decade ago: predominantly Black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
+There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 16 of them. South Africa leads, with 7 speakers — and notably, this cohort looked very different from a decade ago: predominantly Black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
 
 
 {{< figure src="/images/csae2026/heatmap_africa_comparison.png" alt="Comparison: Countries studied vs speaker residence" >}}
