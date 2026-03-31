@@ -23,12 +23,14 @@ a:hover { color: var(--primary-hover); }
     margin: 0 auto;
 }
 
-/* --- Figures breathe wider than text --- */
+/* --- Figures breathe wider than text, centered --- */
 .post-content img,
 .post-content figure {
     max-width: 960px;
-    margin-left: -40px;
-    margin-right: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
 }
 
 /* --- Full-width breakout for large visualizations --- */
@@ -111,6 +113,11 @@ details > *:not(summary) {
     font-weight: 400;
     line-height: 1.7;
     max-width: 680px;
+}
+/* Make links in bio underlined so they're visible */
+.profile_inner h2 a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
 }
 
 /* --- Buttons on homepage --- */

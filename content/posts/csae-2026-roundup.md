@@ -42,7 +42,7 @@ The share of RCTs has held steady at roughly 28–30% since the 2021 conference.
 
 Three other methodological trends caught my eye:
 
-- A growing number of studies examine longer-term impacts (at least 37 papers), many leveraging administrative data to track outcomes years after an intervention ended. For example, Deutschmann et al. show that a one-time offer of easier credit for water tanks gave Kenyan dairy farmers a seven-year head start that permanently boosted milk sales — and increased girls' school attendance.
+- Many studies examine longer-term impacts (at least 37 papers), many leveraging administrative data to track outcomes years after an intervention ended. For example, Deutschmann et al. show that a one-time offer of easier credit for water tanks gave Kenyan dairy farmers a seven-year head start that permanently boosted milk sales — and increased girls' school attendance.
 - At least 71 papers make use of administrative or non-survey data — tax records, satellite imagery, census data, transaction logs, national exam results. As primary data collection becomes harder to fund, expect this to accelerate.
 - Several striking papers document impacts on outcomes not directly targeted by the program (at least 15 papers). Tamim et al. find that BRAC's graduation program — designed to boost livelihoods — reduced mortality by 15% seventeen years later. Gobezie et al. show that Ethiopia's school construction programme reduced women's acceptance of wife-beating. And Cullen et al. find that phone-based mentoring during COVID-19 reduced teen pregnancy and school dropout by 90%.
 
