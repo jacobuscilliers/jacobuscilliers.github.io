@@ -19,10 +19,14 @@ This year's CSAE conference brought together ~200 papers spanning agriculture, h
 <details>
 <summary><strong>African representation</strong></summary>
 
-What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I tried two approaches. First, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. By this measure, only about a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US. But residence undercounts African representation — it misses Africans in the diaspora, including PhD students at European and North American universities. So I also classified speakers by likely country of origin, using names as the primary signal. By this measure, 37–41% of speakers are plausibly of African origin — but Africa-based institutions employ barely half of them. 
+What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I tried two approaches. First, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. By this measure, only about a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US. 
+
 
 {{< figure src="/images/csae2026/treemap_speaker_countries.png" alt="Treemap: Speaker country of residence" >}}
 
+But residence undercounts African representation — it misses Africans in the diaspora, including PhD students at European and North American universities. So I also classified speakers by likely country of origin, using names as the primary signal.[^1] By this measure, 37–41% of speakers are plausibly of African origin — but Africa-based institutions employ barely half of them. 
+
+[^1]: Country of origin was estimated by matching speaker first names and surnames to ethno-linguistic naming conventions (e.g., Akan day-names for Ghana, Amharic patronymics for Ethiopia, Yoruba compound names for Nigeria). This approach works well for names with strong regional signals but is imperfect: it cannot identify African-origin speakers with European names, may misclassify names shared across borders (e.g., Hausa names span Nigeria and Niger), and relies on the author's judgment for ambiguous cases. Eight speakers were classified as "plausibly African" with medium confidence; the rest were high confidence. Classification was done by an LLM (Claude). 
 
 There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 16 of them. South Africa leads, with 7 speakers — and notably, this cohort looked very different from a decade ago: predominantly black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
 
