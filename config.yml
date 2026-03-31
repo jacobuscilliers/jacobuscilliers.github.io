@@ -1,6 +1,7 @@
 baseURL: "https://jacobuscilliers.github.io/"
 title: Jacobus Cilliers
 theme: PaperMod
+googleAnalytics: "G-CK2FKZGKX3"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
