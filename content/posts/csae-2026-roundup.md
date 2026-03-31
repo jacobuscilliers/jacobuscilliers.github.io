@@ -19,13 +19,12 @@ This year's CSAE conference brought together ~200 papers spanning agriculture, h
 <details>
 <summary><strong>African representation</strong></summary>
 
-What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. This is an undercount: it misses Africans in the diaspora and those living in Africa but employed by a global institution. Roughly a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US. So, more progress is required...
-
+What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I tried two approaches. First, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. By this measure, only about a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US. But residence undercounts African representation — it misses Africans in the diaspora, including PhD students at European and North American universities. So I also classified speakers by likely country of origin, using names as the primary signal. By this measure, 37–41% of speakers are plausibly of African origin — but Africa-based institutions employ barely half of them. 
 
 {{< figure src="/images/csae2026/treemap_speaker_countries.png" alt="Treemap: Speaker country of residence" >}}
 
 
-There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 16 of them. South Africa leads, with 7 speakers — and notably, this cohort looked very different from a decade ago: predominantly Black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
+There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 16 of them. South Africa leads, with 7 speakers — and notably, this cohort looked very different from a decade ago: predominantly black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
 
 
 {{< figure src="/images/csae2026/heatmap_africa_comparison.png" alt="Comparison: Countries studied vs speaker residence" >}}
