@@ -1,7 +1,7 @@
 ---
 title: "CSAE 2026: What I Saw in Oxford This Year"
 date: 2026-03-30
-description: "A roundup of 199 papers presented at the CSAE 2026 Conference at St Catherine's College, Oxford."
+description: "A roundup of ~200 papers presented at the CSAE 2026 Conference at St Catherine's College, Oxford."
 draft: false
 tags: ['CSAE', 'development economics', 'conference roundup', 'Africa']
 ---
@@ -10,10 +10,10 @@ tags: ['CSAE', 'development economics', 'conference roundup', 'Africa']
 A roundup of papers presented at the Centre for the Study of African Economies (CSAE) 2026 Conference at the University of Oxford, March 2026.
 
 
-This year's CSAE conference brought together 199 papers spanning agriculture, health, gender, climate, finance, and more, covering research in 33 African countries. Here is your one-stop summary.
+This year's CSAE conference brought together ~200 papers spanning agriculture, health, gender, climate, finance, and more, covering research in 33 African countries.
 
 
-## Trends
+## The Big Picture
 
 
 <details>
@@ -48,14 +48,15 @@ Three other methodological trends caught my eye:
 
 ## Summaries
 
+Here is your one-stop summary.
 
-Disclaimer: These summaries were produced with the help of Claude Code, which downloaded the conference papers and drafted one-line summaries following the spirit of David Evans's CSAE roundups. I edited all of them and verified accuracy against roughly 15 papers. If your paper is missing or the summary doesn't do it justice, please message me with a correction.
+> <small>*These summaries were produced with the help of Claude Code, which downloaded the conference papers and drafted one-line summaries following the spirit of [David Evans's CSAE roundups](https://www.cgdev.org/blog/whats-latest-economic-research-africa-round-nearly-one-hundred-studies-csae-2021). I edited all of them and verified accuracy against roughly 15 papers. If your paper is missing or the summary doesn't do it justice, please message me with a correction.*</small>
 
 <details>
 <summary><strong>Graduation Programs</strong></summary>
 
 
-One of the highlights was the graduation program. The headline news is good. Graduation works across multiple contexts, even when implemented by government. But design details matter.
+One of the highlights was the graduation evidence. The headline news is good. Graduation works across multiple contexts, even when implemented by government. But design details matter.
 
 - A graduation program for displaced Somalis in Baidoa tripled household assets and boosted consumption by 30%. Nearly all the gains came from one thing — goats (Leight et al.). #RCT
 - Four coordinated RCTs across the Sahel find that graduation programs work even when run by governments in fragile states, but the full Capital+Psychosocial bundle particularly accelerates poverty exit for the not-quite-most-destitute — the very poorest may need something else (Bossuroy et al.). #RCT
@@ -327,6 +328,6 @@ One of the highlights was the graduation program. The headline news is good. Gra
 <summary><strong>Conclusion</strong></summary>
 
 
-That is 199 papers in three days. The graduation model got its most thorough stress-test yet -- and survived, though with some uncomfortable questions about which components actually matter. Climate papers dominated, from floods to droughts to forests. And the methods papers reminded us that how we measure things matters as much as what we find.
+That is ~200 papers in three days. The graduation model got its most thorough stress-test yet -- and survived, though with some uncomfortable questions about which components actually matter. Climate papers dominated, from floods to droughts to forests. And the methods papers reminded us that how we measure things matters as much as what we find.
 
 </details>
