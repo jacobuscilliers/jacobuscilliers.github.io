@@ -7,10 +7,7 @@ tags: ['CSAE', 'development economics', 'conference roundup', 'Africa']
 ---
 
 
-A roundup of papers presented at the Centre for the Study of African Economies (CSAE) 2026 Conference at the University of Oxford, March 2026.
-
-
-This year's CSAE conference brought together ~200 papers spanning agriculture, health, gender, climate, finance, and more, covering research in 33 African countries.
+This year's [Centre for the Study of African Economies (CSAE) 2026 Conference](https://web.cvent.com/event/74ef818c-d332-46dd-aca2-d24ef679a3ec/websitePage:efa079c9-e315-4a63-9f84-ff72915ef202) at the University of Oxford brought together ~200 papers spanning agriculture, health, gender, climate, finance, and more, covering research in 33 African countries. Here is a roundup of what was presented, with one-line summaries and links to the papers.
 
 
 ## The Big Picture
@@ -19,7 +16,7 @@ This year's CSAE conference brought together ~200 papers spanning agriculture, h
 <details>
 <summary><strong>African representation</strong></summary>
 
-What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I tried two approaches. First, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. By this measure, only about a quarter of speakers reside in Africa. The majority still come from the UK, Europe, and the US. 
+What I love about CSAE is the African representation. I don't know another economics conference where you can chat with people from across the continent over a single lunch. To measure this, I tried two approaches. First, I used AI to identify each speaker's country of residence based on their primary affiliation. For global organizations like the World Bank, I assumed headquarters. By this measure, only about a quarter of speakers reside in Africa — though they come from 16 different African countries. The majority still come from the UK, Europe, and the US. 
 
 
 {{< figure src="/images/csae2026/treemap_speaker_countries.png" alt="Treemap: Speaker country of residence" >}}
@@ -31,7 +28,9 @@ But residence undercounts African representation — it misses Africans in the d
 There is also a disjuncture between where researchers are based and where they study. Papers cover 33 African countries, but speakers reside in only 16 of them. South Africa leads, with 7 speakers — and notably, this cohort looked very different from a decade ago: predominantly black, many originally from other African countries, and more women. The pipeline is diversifying, even if the overall geography hasn't caught up.
 
 
+<div class="full-width">
 {{< figure src="/images/csae2026/heatmap_africa_comparison.png" alt="Comparison: Countries studied vs speaker residence" >}}
+</div>
 
 </details>
 

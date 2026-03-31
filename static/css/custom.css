@@ -5,3 +5,18 @@
 .mw7 {
   max-width: 56rem !important;
 }
+
+/* Full-width breakout for wide figures */
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+}
+.full-width img {
+  width: 100%;
+  height: auto;
+}
