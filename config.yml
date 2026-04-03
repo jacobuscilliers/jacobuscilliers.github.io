@@ -2,6 +2,7 @@ baseURL: "https://jacobuscilliers.github.io/"
 title: Jacobus Cilliers
 theme: PaperMod
 googleAnalytics: "G-CK2FKZGKX3"
+disqusShortname: "jacobuscilliers"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -22,6 +23,9 @@ menu:
         - name: Blog
           url: posts/
           weight: 4
+        - name: Claude Skills
+          url: skills/
+          weight: 5
 
 params:
     description: "Economist at Georgetown University. Research on human capital and public service delivery in Africa."
@@ -44,7 +48,7 @@ params:
     disableScrollToTop: false
     ShowWordCount: false
     UseHugoToc: true
-    comments: false
+    comments: true
     math: false
     profileMode:
           enabled: true
