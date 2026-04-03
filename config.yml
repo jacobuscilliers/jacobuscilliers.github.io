@@ -2,7 +2,7 @@ baseURL: "https://jacobuscilliers.github.io/"
 title: Jacobus Cilliers
 theme: PaperMod
 googleAnalytics: "G-CK2FKZGKX3"
-disqusShortname: "jacobuscilliers"
+disqusShortname: "https-jacobuscilliers-github-io"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
