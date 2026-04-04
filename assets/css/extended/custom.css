@@ -119,6 +119,22 @@ details > *:not(summary) {
     text-decoration: underline;
     text-underline-offset: 2px;
 }
+/* Make the contact/links line (after hr) more prominent */
+.profile_inner h2 hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 1.2rem 0 0.8rem 0;
+}
+/* Bold links in the contact line are already bold via markdown,
+   but make them slightly larger */
+.profile_inner h2 strong a {
+    font-size: 1.05em;
+    letter-spacing: 0.02em;
+}
+/* Hide social icons section if empty */
+.social-icons:empty {
+    display: none;
+}
 
 /* --- Buttons on homepage --- */
 .profile_inner .button {
