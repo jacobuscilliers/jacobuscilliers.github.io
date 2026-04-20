@@ -8,9 +8,7 @@ tags: ['education', 'South Africa', 'policy', 'RCTs']
 
 Even if you ARE part of government, evidence-based policy change is hard. It takes strategy, patience, and courage.
 
-I have had the privilege of collaborating with researchers at South Africa's Department of Basic Education (DBE) for over a decade, iteratively experimenting with ways to improve foundational literacy. Working with committed, smart people inside government has shaped how I think about evidence and policy.
-
-At a recent [Centre for the Study of African Economies (CSAE)](https://www.csae.ox.ac.uk/) panel, Nompumelelo (Mpumi) Mohohlwane, the new Director for Reading at the DBE, offered insights on how evidence-based change actually happens from inside government. What follows draws on her remarks — along with reflections from Stephen Taylor, who leads the DBE's Research, Monitoring, and Evaluation unit and this research program.
+I have had the privilege of collaborating with researchers at South Africa's Department of Basic Education (DBE) for over a decade, iteratively experimenting with ways to improve foundational literacy. At a recent [Centre for the Study of African Economies (CSAE)](https://www.csae.ox.ac.uk/) panel, my long-time collaborator Nompumelelo (Mpumi) Mohohlwane, the new Director for Reading there, offered insights on how evidence-based change actually happens from inside government. What follows draws on her remarks — along with reflections from Stephen Taylor, who leads the DBE's Research, Monitoring, and Evaluation unit and this research program.
 
 ## The research
 
