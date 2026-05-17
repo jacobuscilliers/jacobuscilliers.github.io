@@ -9,6 +9,66 @@ I provide some examples of previous projects below (including links to the repor
 
 ---
 
+## 2026
+
+<details>
+<summary><strong>Corporal Punishment and Later Life Outcomes</strong> — Center for Global Development</summary>
+
+Using four rounds of Young Lives panel data, students examined whether exposure to school-based corporal punishment at age 8 affected cognitive, psychosocial, and labor-market outcomes through age 22. Negative associations with cognitive performance (most consistent in Peru) and psychosocial outcomes (most consistent in Vietnam) persist seven years after exposure, suggesting that early developmental harm is durable rather than transitory.
+
+[Policy brief](/capstone/2026/policy_brief/CGD.pdf) | [Technical report](/capstone/2026/report/CGD.pdf)
+
+</details>
+
+<details>
+<summary><strong>Climate Change and Substance Use in Bangladesh</strong> — World Bank Group</summary>
+
+Using a two-round household panel from Bangladesh linked to local weather data, students estimated how heat exposure shapes substance use and what channels drive the relationship. Hot-season substance use is 35% higher than in winter, the effect is concentrated among rural residents and women, and roughly a third of it operates through worsened sleep.
+
+[Policy brief](/capstone/2026/policy_brief/World-Bank-Bangladesh.pdf) | [Technical report](/capstone/2026/report/World-Bank-Bangladesh.pdf)
+
+</details>
+
+<details>
+<summary><strong>Drivers of Humanitarian Need in Conflict-Affected Eastern DRC</strong> — IMPACT Initiatives</summary>
+
+Using IMPACT's 2024 and 2025 Multi-Sector Needs Assessments alongside geolocated conflict data, students examined how humanitarian need evolved in conflict-affected eastern DRC following the simultaneous USAID withdrawal and rebel offensive in early 2025. Need rose across every province, with healthcare access, water access, and shelter conditions deteriorating the most. Health shocks are the strongest predictor of need in 2026 but not in 2025, when USAID programmes were still in operation — consistent with USAID programmes having insulated households from the consequences of shocks, an insulating role that disappeared with the funding.
+
+[Policy brief](/capstone/2026/policy_brief/Impact-Initiatives.pdf) | [Technical report](/capstone/2026/report/Impact-Initiatives-Final-Report.pdf)
+
+</details>
+
+<details>
+<summary><strong>Supporting Rural Women in the Lakhpati Didi Initiative</strong> — Indus Action</summary>
+
+Students supported Indus Action in its evaluation of a programme to help rural women in Haryana access government livelihood schemes. The work included (i) designing and rolling out a baseline survey of 511 women; (ii) analysis and write-up of a baseline report; and (iii) a proposed evaluation design. The baseline shows that women across all livelihood groups know more schemes than they actually use, and that the poorest women face overlapping constraints in markets, agency, and institutional support that financial inclusion alone is unlikely to resolve.
+
+[Policy brief](/capstone/2026/policy_brief/Indus-Action.pdf) | [Baseline report](/capstone/2026/report/Indus-Action-baseline-report.pdf) | [Evaluation design](/capstone/2026/report/Indus-Action-prospective-evaluation.pdf)
+
+</details>
+
+<details>
+<summary><strong>Climate Vulnerability and the Allocation of Development Assistance</strong> — World Bank Group</summary>
+
+Students constructed a harmonized sub-national panel dataset merging geocoded aid flows from 2001–2020 with country and sub-national measures of climate vulnerability and poverty. Preliminary results suggest that aid is more consistently associated with poverty than with climate vulnerability at both the national and sub-national level, implying that aid and climate risk may be linked only indirectly, through the socioeconomic dimensions of vulnerability itself. That said, the association between climate vulnerability and aid allocation has strengthened over time.
+
+[Technical report](/capstone/2026/report/World-Bank-DEC-DRG-Climate-Change.pdf)
+
+</details>
+
+<details>
+<summary><strong>Mentors, Visits, and Learning: Telangana's Foundational Literacy and Numeracy Reform</strong> — Central Square Foundation</summary>
+
+Mentor visits to schools have risen substantially since the start of Telangana's foundational learning reform, but urban and advantaged schools systematically receive more visits. Linking administrative visit records to multiple rounds of student assessments, students examined the relationship between visit frequency and learning outcomes. Data limitations — a short follow-up window, non-random visit allocation, and a mismatch between observed teachers and assessed students — mean that the impact of mentoring on learning cannot yet be detected.
+
+[Policy brief](/capstone/2026/policy_brief/Central-Square-Foundation.pdf) | [Technical report](/capstone/2026/report/Central-Square-Foundation.pdf)
+
+</details>
+
+---
+
+## Previous years
+
 <details>
 <summary><strong>The Drivers and Returns to Migration</strong> — Mercy Corps</summary>
 
