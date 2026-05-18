@@ -7,9 +7,21 @@ description: "A free, year-long applied research partnership for organizations w
 
 The MIDP Capstone pairs your organization with a team of Master in International Development Policy (MIDP) students at Georgetown's McCourt School for a year-long applied research project (September–May). The team answers a policy or research question of yours using quantitative methods and delivers a technical report, a policy brief, and a final presentation. The students have strong technical skills in empirical analysis and causal inference, and work under my close supervision throughout. There is no cost to your organization.
 
-**Interested in being a client? [Email me](mailto:ejc93@georgetown.edu).** More detail below.
-
 **See [past Capstone projects →](/capstone/projects/)**
+
+---
+
+## How to apply
+
+**Email me first.** Before submitting a proposal, please email me at [ejc93@georgetown.edu](mailto:ejc93@georgetown.edu) so we can discuss whether the project is a good fit, the available data, and the scope. This short conversation tends to make proposals stronger and saves time for both of us.
+
+After that, you can submit a proposal in either of two ways:
+
+**Option 1: Online form.** Fill out the **[application form](https://forms.gle/MTWFaDg82omj9tRR9)**.
+
+**Option 2: Download and email.** Download the [application template](/capstone/MIDP_Capstone_Application_Template.docx), complete it, and email it to [ejc93@georgetown.edu](mailto:ejc93@georgetown.edu).
+
+**Deadline.** Proposals for the 2026–2027 academic year are due **July 10th, 2026**.
 
 ---
 
@@ -69,31 +81,6 @@ There is no cost to participate. In return, I ask clients to commit to the follo
 - **Regular email communication**, roughly bi-weekly, between check-ins.
 - **Attendance at the end-of-semester presentations** (one hour each, in December and April/May; remote attendance is fine).
 - **Organizational sign-off before submitting a proposal**, so that if the project is selected the team can start in September without delay.
-
-</details>
-
-<details open>
-<summary><strong>How to apply</strong></summary>
-
-**Email me first.** Before submitting a proposal, please email me at [ejc93@georgetown.edu](mailto:ejc93@georgetown.edu) so we can discuss whether the project is a good fit, the available data, and the scope. This short conversation tends to make proposals stronger and saves time for both of us.
-
-After that, you can submit a proposal in either of two ways:
-
-**Option 1: Online form.** Fill out the **[application form](https://forms.gle/MTWFaDg82omj9tRR9)**.
-
-**Option 2: Download and email.** Download the [application template](/capstone/MIDP_Capstone_Application_Template.docx), complete it, and email it to [ejc93@georgetown.edu](mailto:ejc93@georgetown.edu).
-
-The application template (and either submission format) asks for:
-
-- Name and brief description of your organization
-- Primary point of contact and their email
-- Background and project description (2–4 paragraphs covering motivation and the policy/research question)
-- Description of existing data the team will use
-- Client expectations — the specific tasks or outputs you'd like from the team
-
-For full background on the program, see the [Request for Proposals](/capstone/MIDP_Capstone_RFP.pdf).
-
-**Deadline.** Proposals for the 2026–2027 academic year are due **July 10th, 2026**.
 
 </details>
 
