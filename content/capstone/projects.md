@@ -65,7 +65,7 @@ Students constructed a harmonized sub-national panel dataset merging geocoded ai
 
 Mentor visits to schools have risen substantially since the start of Telangana's foundational learning reform, but urban and advantaged schools systematically receive more visits. Linking administrative visit records to multiple rounds of student assessments, students examined the relationship between visit frequency and learning outcomes. Data limitations — a short follow-up window, non-random visit allocation, and a mismatch between observed teachers and assessed students — mean that the impact of mentoring on learning cannot yet be detected.
 
-[Policy brief](/capstone/2026/policy_brief/Central-Square-Foundation.pdf) | [Technical report](/capstone/2026/report/Central-Square-Foundation.pdf)
+*Report and Policy Brief Available on Request*
 
 </details>
 
