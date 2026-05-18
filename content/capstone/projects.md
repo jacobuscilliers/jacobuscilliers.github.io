@@ -1,6 +1,7 @@
 ---
 title: "Past Capstone Projects"
 description: "Examples of applied research projects MIDP students have completed for clients."
+showToc: false
 build:
   list: never
   render: always
