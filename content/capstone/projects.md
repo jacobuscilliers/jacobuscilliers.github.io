@@ -61,9 +61,9 @@ Students constructed a harmonized sub-national panel dataset merging geocoded ai
 </details>
 
 <details>
-<summary><strong>Mentors, Visits, and Learning: Telangana's Foundational Literacy and Numeracy Reform</strong> — Central Square Foundation</summary>
+<summary><strong>Mentors, Visits, and Learning: Foundational Literacy and Numeracy Reform in a South Indian State</strong> — Central Square Foundation</summary>
 
-Mentor visits to schools have risen substantially since the start of Telangana's foundational learning reform, but urban and advantaged schools systematically receive more visits. Linking administrative visit records to multiple rounds of student assessments, students examined the relationship between visit frequency and learning outcomes. Data limitations — a short follow-up window, non-random visit allocation, and a mismatch between observed teachers and assessed students — mean that the impact of mentoring on learning cannot yet be detected.
+The team linked administrative visit records to multiple rounds of student assessments to test whether visit frequency predicts learning outcomes. They find that mentor visits to schools have risen substantially since the start of the state's foundational learning reform, but urban and advantaged schools systematically receive more visits. But data limitations — a short follow-up window, non-random visit allocation, and a mismatch between observed teachers and assessed students — mean that the impact of mentoring on learning cannot (yet) be detected.
 
 *Report and Policy Brief Available on Request*
 
