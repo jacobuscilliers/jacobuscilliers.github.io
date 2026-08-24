@@ -6,7 +6,7 @@ draft: false
 tags: ['RCTs', 'attrition', 'econometrics', 'methods']
 ---
 
-It is a Wild West out there when it comes to testing for attrition in field experiments. Researchers use different tests, describe them with different terms, and somehow always find a way to conclude that attrition is not a problem in their case. So I was happy to read [Testing Attrition Bias in Field Experiments](https://jhr.uwpress.org/content/early/2023/08/02/jhr.0920-11190r2) by Dalia Ghanem, Sarojini Hirshleifer and Karen Ortiz-Becerra (Journal of Human Resources, 2023; [ungated version](https://economics.ucr.edu/repec/ucr/wpaper/202218R.pdf)). It turns out I was doing it wrong. Chances are, so are you.
+It is a Wild West out there when it comes to testing for attrition in field experiments. Researchers use different tests, describe them with different terms, and somehow always find a way to conclude that attrition is not a problem in their case. So I was happy to read [Testing Attrition Bias in Field Experiments](https://jhr.uwpress.org/content/early/2023/08/02/jhr.0920-11190r2) by Dalia Ghanem, Sarojini Hirshleifer and Karen Ortiz-Becerra (Journal of Human Resources, 2023; [ungated version](https://escholarship.org/uc/item/4ck087v3)). It turns out I was doing it wrong. Chances are, so are you.
 
 The authors review 96 published field experiments with baseline data. The most common test — reported in 79 percent of the experiments with attrition above 1 percent — checks whether attrition *rates* differ between treatment and control. But equal rates are neither necessary for an unbiased estimate nor, without extra assumptions, sufficient: rates can differ while your estimate is fine, and identical rates can hide serious bias. The second most common test, in 61 percent, checks whether treatment and control *respondents* are balanced at baseline. Closer, but only half of the correct test.
 
@@ -140,7 +140,7 @@ Anatolyev, Stanislav, and Mikkel Sølvsten. 2023. "Testing Many Restrictions Und
 
 Cilliers, Jacobus, Brahm Fleisch, Cas Prinsloo and Stephen Taylor. 2020. "How to Improve Teaching Practice? An Experimental Comparison of Centralized Training and In-Classroom Coaching." *Journal of Human Resources* 55(3): 926–962. [[link]](https://jhr.uwpress.org/content/55/3/926)
 
-Ghanem, Dalia, Sarojini Hirshleifer and Karen Ortiz-Becerra. 2023. "Testing Attrition Bias in Field Experiments." *Journal of Human Resources*, published online August 11, 2023. [[journal]](https://jhr.uwpress.org/content/early/2023/08/02/jhr.0920-11190r2) [[ungated]](https://economics.ucr.edu/repec/ucr/wpaper/202218R.pdf)
+Ghanem, Dalia, Sarojini Hirshleifer and Karen Ortiz-Becerra. 2023. "Testing Attrition Bias in Field Experiments." *Journal of Human Resources*, published online August 11, 2023. [[journal]](https://jhr.uwpress.org/content/early/2023/08/02/jhr.0920-11190r2) [[ungated]](https://escholarship.org/uc/item/4ck087v3)
 
 Ghanem, Dalia, Sarojini Hirshleifer and Karen Ortiz-Becerra. "attregtest: Stata module to implement regression-based attrition tests." Statistical Software Components, Boston College. Install with `ssc install attregtest`. [[link]](https://ideas.repec.org/c/boc/bocode/s459125.html)
 
