@@ -2,7 +2,7 @@
 title: "You are not testing for attrition correctly"
 date: 2026-08-24
 description: "Two joint tests for attrition bias in field experiments, and simulation evidence on which version to run in stratified, clustered designs."
-draft: false
+draft: true
 tags: ['RCTs', 'attrition', 'econometrics', 'methods']
 ---
 
@@ -57,7 +57,9 @@ The authors propose that you run the test separately for each endline outcome, u
 
 Then you test on covariates instead, but not on any covariates. The paper is specific about which ones are admissible: determinants of the outcome, or proxies driven by the same unobservables as the outcome. So pre-specify a small set of outcome-specific determinants, and test them jointly with the baseline outcome, if you have it, in one system of equations. `attregtest` takes the whole list and reports one joint p-value per test. At this point the exercise looks a lot like a standard baseline balance table — except with a different omnibus test.
 
-The same warning as above applies, though: with k variables, the respondent test stacks 2k restrictions and the representativeness test 3k, and joint tests with many restrictions over-reject in clustered designs. In the simulations, with 100 clusters, a joint representativeness test over ten variables falsely rejects 37 percent of the time (first note at the end). If you have more than two or three variables in a clustered design, I suggest randomization inference instead, as [Kerwin, Rostom and Sterck](https://www.iza.org/publications/dp/17217/striking-the-right-balance-why-standard-balance-tests-over-reject-the-null-and-how-to-fix-it) recommend for balance tests. There is a wrinkle, since attrition is itself a post-treatment outcome: re-shuffling schools into treatment and control shuffles their response rates too, so the randomization-inference benchmark implicitly holds attrition unaffected by treatment (this is not a problem for individual-level randomization). In the simulations this turns out not to matter (third note at the end), although power still goes down as the list of variables increases - one more reason to pre-specify a short one. More research is needed here.
+The same warning as above applies, though: with k variables, the respondent test stacks 2k restrictions and the representativeness test 3k, and joint tests with many restrictions over-reject in clustered designs. In the simulations, with 100 clusters, a joint representativeness test over ten variables falsely rejects 37 percent of the time (first note at the end). If you have more than two or three variables in a clustered design, you need another test. The most viable alternative is to adjust for multiple tests, using FWER or FDR. You reject the null if p or q is below your desired level of significance for at least one of the variables. Simulations show that it falsely rejects roughly 0.07-0.08 of the time for a 5 percent test, so a little bit more conservative. 
+
+(Aside: my first instinct was using randomization inference instead, as [Kerwin, Rostom and Sterck](https://www.iza.org/publications/dp/17217/striking-the-right-balance-why-standard-balance-tests-over-reject-the-null-and-how-to-fix-it) recommend for balance tests, but it is not theoretically allowable since attrition is itself a post-treatment outcome: re-shuffling schools into treatment and control shuffles their response rates too, so the randomization-inference benchmark implicitly holds attrition unaffected by treatment (this is not a problem for individual-level randomization). Simulations show that they are not balanced, but power is actually lower than adjusting for MHTs using Anderson q-values. 
 
 ## An example from my own work
 
