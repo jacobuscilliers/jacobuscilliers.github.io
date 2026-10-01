@@ -13,3 +13,6 @@
 ## 2026-10-01 — Research page trimmed; JDE 2026 paper added
 - Added Cilliers & Habyarimana (2026, JDE) "Addressing Weak Links..." as published #1 (the former Tanzania governance working paper).
 - Page now only Published Papers + Working Papers: dropped Works in Progress (changes too often) and Policy Papers and Reports.
+
+## 2026-10-01 — Restored Policy Papers and Reports
+- Only Works in Progress should have been dropped; Policy Papers and Reports restored from f6b7440~1.
