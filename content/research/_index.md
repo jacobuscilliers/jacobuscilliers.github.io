@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Published papers and working papers"
+description: "Published papers, working papers, and policy papers"
 ---
 
 ## Published Papers
@@ -58,3 +58,25 @@ description: "Published papers and working papers"
 4. **"When Governments Take Over: Challenges Scaling Structured Pedagogy in South Africa and Mozambique"**. With Sylvia Cesar, Lelys Dinarte-Diaz, David Evans, Nompumelelo Mohohlwane, Koloso Nonkenge, and Stephen Taylor.
 
 5. **"The Ten-Year Impacts of an Early-Grade Reading Intervention: Experimental Evidence from South Africa"**. With Nompumelelo Mohohlwane, Koloso Nonkenge, Stephen Taylor, Sharon Wolf, and Zamangwe Zane.
+
+---
+
+## Policy Papers and Reports
+
+1. **"Principles to Improve School Management in Tanzania: Drawing from Evidence Around the World"** *World Bank Policy Note*. 2024.
+
+2. **"Improving Teachers and School Leadership in Indonesia: Impact Evaluation of Guru Penggerak Program at the Primary Level"** World Bank report. 2023.
+
+3. **"How can Education Systems Structure Virtual Communities of Practice for Teachers Most Effectively? A Rapid Review"** *Center for Global Development Note*. March 2023.
+
+4. **"The Digital Future of Teacher Training in Indonesia: What's Next?"** World Bank report. 2022.
+<br><small>See also: Blog post</small>
+
+5. **"What Did Children Do During School Closures? Insights from a Parent Survey in Tanzania."** *RISE Insight Series*. 2021/027.
+
+6. **"The Motivations, Constraints, and Behaviour of Tanzania's Frontline Education Providers"** *RISE Insight Series*. 2020/023. With Shardul Oza.
+
+7. **"Preparing for Post-Covid Recovery: How to Support Students When Schools Reopen?"** *RISE Insight Series*. 2020/018.
+
+8. **"Improving Teacher Attendance using a Locally Managed Monitoring Scheme: Evidence from Uganda Primary Schools"** *IGC Policy Note*. 2014.
+<br><small>[Policy note](https://www.theigc.org/wp-content/uploads/2014/09/Cilliers-Et-Al-2014-Policy-Brief.pdf)</small>
